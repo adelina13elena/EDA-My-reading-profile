@@ -1,6 +1,6 @@
 # EDA-My-reading-profile
 
-The data for this project comes from my own StoryGraph account. SotryGraph is a platform where you can track your reading and choose your next book, and reding is one of my greatest passions, so I use it quite a lot. <br>
+The data for this project comes from my own StoryGraph account. StoryGraph is a platform where you can track your reading and choose your next book, and reding is one of my greatest passions, so I use it quite a lot. <br>
 The dataset has 831 entries and 23 columns:<br>
 •	Title – Title of the book<br>
 •	Authors – Book Authors<br>
